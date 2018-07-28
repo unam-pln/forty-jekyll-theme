@@ -2,7 +2,7 @@
 title: PLN/UNaM 
 subtitle: Curso de PLN para la MTI de la UNaM
 email: julio.waissman@unison.mx
-description: Material del curso *Procesamiento del Lenguaje Natural* MTI/UNaM.
+description: Material del curso Procesamiento del Lenguaje Natural.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://unam-pln.github.io # the base hostname & protocol for your site
 author: Julio Waissman Vilanova
