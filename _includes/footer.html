@@ -4,15 +4,15 @@
 		<section>
 			<form action="{{ site.form_url }}" method="POST">
 				<div class="field half first">
-					<label for="name">Name</label>
+					<label for="name">Nombre</label>
 					<input type="text" name="name" id="name" />
 				</div>
 				<div class="field half">
-					<label for="email">Email</label>
+					<label for="email">Correo electrónico</label>
 					<input type="text" name="{{ site.form_email_name }}" id="email" />
 				</div>
 				<div class="field">
-					<label for="message">Message</label>
+					<label for="message">Mensaje</label>
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
@@ -25,22 +25,17 @@
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
+					<h3>Correo electrónico</h3>
 					<a href="#">{{ site.email }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
+					<h3>Dirección postal</h3>
 					<span>
+					{% if site.institucion %}
+					    {{ site.institucion }}<br />
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
 					{% endif %}
@@ -100,8 +95,8 @@
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+				<li>Diseño: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Integración con Jekyll: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
 
 			</ul>
 		</div>
