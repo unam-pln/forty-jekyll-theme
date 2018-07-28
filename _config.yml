@@ -1,6 +1,6 @@
 # site settings
-title: PLN/UNaM 
-subtitle: Curso de PLN para la MTI de la UNaM
+title: PLN/MTI 
+subtitle: Univeridad Nacional de Misiones
 email: julio.waissman@unison.mx
 description: Material del curso Procesamiento del Lenguaje Natural.
 baseurl: "/" # the subpath of your site, e.g. /blog
