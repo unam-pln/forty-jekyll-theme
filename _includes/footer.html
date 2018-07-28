@@ -34,6 +34,10 @@
 					<span class="icon alt fa-home"></span>
 					<h3>Dirección postal</h3>
 					<span>
+					{% if site.institucion %}
+					    {{ site.institucion }}<br />
+					{% if site.departamento %}
+					    {{ site.departamento }}<br />
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
 					{% endif %}
