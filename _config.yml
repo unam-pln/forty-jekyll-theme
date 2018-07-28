@@ -35,6 +35,7 @@ twitter_url:
 
 # build settings
 markdown: kramdown
+encoding: UTF-8
 
 sass:
   style: compressed
