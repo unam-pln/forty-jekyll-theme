@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'PLN en la Maestría en Tecnologías de la Información'
+landing-title: 'Material del curso Procesamiento de Lenguaje Natural'
 description: null
 image: null
 author: null
