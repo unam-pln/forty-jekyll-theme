@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Curso de PLN en la MTI de la UNaM'
+landing-title: 'PLN en la Maestría en Tecnologías de la Información'
 description: null
 image: null
 author: null
