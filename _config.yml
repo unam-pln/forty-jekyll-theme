@@ -6,7 +6,7 @@ description: Maestría en Tecnologías de la Información.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://unam-pln.github.io # the base hostname & protocol for your site
 author: Julio Waissman Vilanova
-street_address: Universidad de Sonora
+street_address: Blvd. Encinas y Rosales s/n
 city: Hermosillo
 state: Sonora
 zip_code: 83000
