@@ -6,7 +6,6 @@ description: Maestría en Tecnologías de la Información.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://unam-pln.github.io # the base hostname & protocol for your site
 author: Julio Waissman Vilanova
-institucion: Universidad de Sonora
 street_address: Universidad de Sonora
 city: Hermosillo
 state: Sonora
