@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-En este sitio se concentra la información necesaria para llevar a cabo el curso *Procesamiento de lenguaje Natural*.
+Profesor-investigador de la [Universidad de Sonora](uson.mx). Bla bla bla bla
