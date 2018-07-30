@@ -2,7 +2,7 @@
 layout: post
 title: Trabajos prácticos
 description: Libretas a realizar fuera de curso
-image: assets/images/tlacuilo.jpg
+image: assets/images/parqueecologico.jpg
 ---
 
 # Descargar los trabajos prácticos con *github*
