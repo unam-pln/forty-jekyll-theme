@@ -7,9 +7,8 @@ image: assets/images/san_carlos.jpg
 
 El proyecto final tiene como objetivo promover el desarrollo de
 capacidades que no es posible ver en el curso, ya sea por su
-naturaleza, ya sea por las limitantes de tiempo.
-
-Las competencias que son importantes a desarrollar con el proyecto final son:
+naturaleza, ya sea por las limitantes de tiempo. Las competencias que
+se intentan desarrollar con el proyecto final son:
 
 1. Plantear un problema y su solución con las técnicas vistas en el curso.
 
