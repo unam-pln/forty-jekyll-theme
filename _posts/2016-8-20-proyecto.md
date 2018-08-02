@@ -5,8 +5,6 @@ description: Indicaciones generales
 image: assets/images/san_carlos.jpg
 ---
 
-#Proyecto final
-
 El proyecto final tiene como objetivo promover el desarrollo de
 capacidades que no es posible ver en el curso, ya sea por su
 naturaleza, ya sea por las limitantes de tiempo.
