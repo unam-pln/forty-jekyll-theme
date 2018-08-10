@@ -28,7 +28,7 @@ aprendizaje por refuerzo, utilizando lógica difusa.
 
 Desde el 2007 soy Profesor-Investigador Titular del Departamento de
 Matemáticas de la [Universidad de Sonora](http://www.uson.mx),
-México. En estos años se ha enfocado, en docencia, en la [Licenciatura
+ofreciendo los cursos del área de Inteligencia Artificial en la [Licenciatura
 en Ciiencias de la Computación](http://cc.uson.mx). En los últimos
 años he trabajado en el modelado y análisis, basado en técnicas
 provenientes de la lógica difusa, para sistemas pobremente
