@@ -1,6 +1,6 @@
 # site settings
-title: PLN/MTI 
-subtitle: Univeridad Nacional de Misiones
+title: PLN/MTI
+subtitle: Univeridad Nacional de Misiones/ Universidad Nacional del Nordeste
 email: julio.waissman@unison.mx
 description: Maestría en Tecnologías de la Información.
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -27,10 +27,10 @@ form_email_name: _replyto # value of the "name" attribute in the "email" field
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url:
